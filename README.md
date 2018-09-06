@@ -8,7 +8,8 @@ Feel tired when you have to select, copy and parse DOI into scihub url a lot of 
 ================================
 
 INSTALL:
-0. Open chrome
+
+0. Open chrome (sure LoL, I'm too lazy to do it for others)
 
 1. Go to url: "chrome://extensions/" and check the box for Developer mode in the top right.
 
