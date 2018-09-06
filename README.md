@@ -2,7 +2,9 @@
 Sci-hub for lazy guys
 
 ================================
+
 Feel tired when you have to select, copy and parse DOI into scihub url a lot of time, this extension will save your day.
+
 ================================
 
 INSTALL:
